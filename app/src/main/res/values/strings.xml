@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SushiTime</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slidesshow</string>
+    <string name="Sushi_time">SushiTime</string>
+    <string name="JAPANESE_CUISINE">JAPANESE CUISINE</string>
+    <string name="sign_in">sign_in</string>
+    <string name="registrer">registrer</string>
+    <string name="full_name">full_name</string>
+    <string name="email_address">email_address</string>
+    <string name="password">password</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="My_cart">My_cart</string>
+    <string name="rania_fkiri_2gmail_com">raniafkiri2@gmail.com</string>
+    <string name="rania_fkiri">Rania fkiri</string>
+    <string name="_11_00_23_00">11:00 - 23:00</string>
+    <string name="product_name">Product Name</string>
+    <string name="_5_0">5.0</string>
+    <string name="min_20dt">Min - 45DT</string>
+    <string name="min_10dt">/min_35dt</string>
+    <string name="prix">prix</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="your_favourite_and_testy_food_is_here">your favourite and testy food is here</string>
+    <string name="view_more">view more</string>
+    <string name="make_order">Make order</string>
+
+
+
+</resources>

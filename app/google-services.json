@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740257377589",
+    "project_id": "sushiitime",
+    "storage_bucket": "sushiitime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740257377589:android:43469eee3956fef3aeb07c",
+        "android_client_info": {
+          "package_name": "com.example.sushitime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740257377589-p1l6ftmfnue1kau810rtb3i0vsg0opov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9e3XHV8g9X3_oJmJJhST9uVFyYntHrcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740257377589-p1l6ftmfnue1kau810rtb3i0vsg0opov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
